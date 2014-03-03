@@ -1,7 +1,7 @@
 jasmine-testbench
 =================
 
-A simple gulp/karma -powered test-bench for writing Jasmine unit tests.
+A simple gulp/karma -powered test-bench for writing Jasmine unit tests (for Code Dojos etc).
 
 Install instructions
 ====================

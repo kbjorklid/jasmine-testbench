@@ -13,8 +13,7 @@ describe("app", function() {
     });
 
     it("should return sum of three numbers", function () {
-        expect(calc("1,2,3")).toBe(5);
-
+        expect(calc("1,2,3")).toBe(6);
     });
 
 });
